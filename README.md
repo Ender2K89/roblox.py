@@ -104,7 +104,7 @@ loop.run_until_complete(main())
 - Context Manager In game client
 
 ### Important Links
-- Docs (not made yes see example folder)
+- Docs (not made yet. See the example folder)
 - [Examples](https://github.com/KILR007/roblox.py/tree/master/Examples)
 - [Discord Server](https://discord.gg/vpEv3HJ)
 - [GitHub](https://github.com/KILR007/roblox.py)
